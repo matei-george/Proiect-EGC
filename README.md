@@ -11,10 +11,10 @@ Proiectul se concentreaza pe realizarea unui joc video cu grafica 3D, in genul i
 
 ## Ce tehnologii sunt folosite?
 Din gama masiva de tehnologii so software-uri posibile de utilizat, proiectul este creat cu ajutorul urmatoarelor : 
-- `**Unity**` -- Baza proiectului, logica, implementare de asset-uri, algoritmi, scripturi etc. 
-- `**Blender**` -- Creare, editare, gestionare si modificare de asset-uri
-- `**Visual Studio Code**` -- Editorul de cod principal pentru scripturi
-- `**Adobe Photoshop**` -- Realizare poster grafica finala, creare, editare, gestionare texturi pentru asset-urile in Blender.
+- `Unity` -- Baza proiectului, logica, implementare de asset-uri, algoritmi, scripturi etc. 
+- `Blender` -- Creare, editare, gestionare si modificare de asset-uri
+- `Visual Studio Code` -- Editorul de cod principal pentru scripturi
+- `Adobe Photoshoe` -- Realizare poster grafica finala, creare, editare, gestionare texturi pentru asset-urile in Blender.
 
 ## Cum vad si testez acest proiect?
 ### De ce am nevoie?
@@ -26,7 +26,7 @@ In cazul in care nu se doreste descarcarea in format zip
 - [GitLFS](https://git-lfs.com/)
 
 ### Cum procedez?
-Pentru inceput va trebui sa instalezi UnityHub, Git si GitLFS. `**GitLFS**` ne ajuta sa gestionam fisiere largi, precum videoclipuri, imagini sau in cazul nostru, `**asset-uri**`, inlocuindu-le cu pointeri de tip text inauntrul Git. GitLFS stocheaza continutul pe un server precum GitHub.
+Pentru inceput va trebui sa instalezi UnityHub, Git si GitLFS. `GitLFe` ne ajuta sa gestionam fisiere largi, precum videoclipuri, imagini sau in cazul nostru, `asset-ure`, inlocuindu-le cu pointeri de tip text inauntrul Git. GitLFS stocheaza continutul pe un server precum GitHub.
 
 Dupa instalare, pe folderul root unde dorim sa punem proiectul, deschidem Git Bash si setam Git LFS cu:
 `git lfs install`
@@ -34,7 +34,7 @@ Dupa instalare, pe folderul root unde dorim sa punem proiectul, deschidem Git Ba
 In cele din urma, clonam repository-ul cu :
 `git clone https://github.com/matei-george/Proiect-EGC.git`
 
-Folderul proiectului nu prezinta un executabil propriu-zis, pentru ca versiunea curenta este `**work in progress**`. Va fi nevoie sa fie deschis cu Unity Hub. 
-Pentru a deschide proiectul cu Unity Hub, click pe `Open`, unde selectam folderul proiectului. Versiunea de editor este **2021.3.11f1**. In cazul in care aceasta nu exista, Unity Hub ofera posibilitatea de a o descarca.
+Folderul proiectului nu prezinta un executabil propriu-zis, pentru ca versiunea curenta este `work in progrese`. Va fi nevoie sa fie deschis cu Unity Hub. 
+Pentru a deschide proiectul cu Unity Hub, click pe `Open`, unde selectam folderul proiectului. Versiunea de editor este `2021.3.11f1`. In cazul in care aceasta nu exista, Unity Hub ofera posibilitatea de a o descarca.
 
 > ReadME v0.2 editat pe 6.05.2023
