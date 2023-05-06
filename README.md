@@ -38,7 +38,7 @@ In cele din urma, clonam repository-ul cu :
 git clone https://github.com/matei-george/Proiect-EGC.git
 ```
 
-Folderul proiectului nu prezinta un executabil propriu-zis, pentru ca versiunea curenta este `work in progrese`. Va fi nevoie sa fie deschis cu Unity Hub. 
+Folderul proiectului nu prezinta un executabil propriu-zis, pentru ca versiunea curenta este `work in progress`. Va fi nevoie sa fie deschis cu Unity Hub. 
 Pentru a deschide proiectul cu Unity Hub, click pe `Open`, unde selectam folderul proiectului. Versiunea de editor este `2021.3.11f1`. In cazul in care aceasta nu exista, Unity Hub ofera posibilitatea de a o descarca.
 
 > ReadME v0.2 editat pe 6.05.2023
