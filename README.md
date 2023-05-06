@@ -26,7 +26,7 @@ In cazul in care nu se doreste descarcarea in format zip
 - [GitLFS](https://git-lfs.com/)
 
 ### Cum procedez?
-Pentru inceput va trebui sa instalezi UnityHub, Git si GitLFS. `GitLFe` ne ajuta sa gestionam fisiere largi, precum videoclipuri, imagini sau in cazul nostru, `asset-ure`, inlocuindu-le cu pointeri de tip text inauntrul Git. GitLFS stocheaza continutul pe un server precum GitHub.
+Pentru inceput va trebui sa instalezi UnityHub, Git si GitLFS. `GitLFS` ne ajuta sa gestionam fisiere largi, precum videoclipuri, imagini sau in cazul nostru, `asset-ure`, inlocuindu-le cu pointeri de tip text inauntrul Git. GitLFS stocheaza continutul pe un server precum GitHub.
 
 Dupa instalare, pe folderul root unde dorim sa punem proiectul, deschidem Git Bash si setam Git LFS cu:
 `git lfs install`
