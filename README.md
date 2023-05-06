@@ -1,6 +1,6 @@
 # Proiect-EGC
 ## Introducere
-Acest proiect la disciplina Elemente de Grafica pe Calculator a fost realizat de catre studentii din Anul 3, Calculatoare, grupa 3131b : 
+Acest proiect la disciplina Elemente de Grafica pe Calculator a fost realizat de catre echipa **Syntax Errors** formata din : 
 | Nr.Crt  | Nume si Prenume |
 | ------------- | ------------- |
 | 1  | Baesu Tiberiu Radu  |
