@@ -3,9 +3,9 @@
 Acest proiect la disciplina Elemente de Grafica pe Calculator a fost realizat de catre echipa **Syntax Errors** formata din : 
 | Nr.Crt  | Nume si Prenume |
 | ------------- | ------------- |
-| 1  | Baesu Tiberiu Radu  |
-| 2  | Petrasciuc Sebastian Marian  |
-| 3  | Murarasu Matei George  |
+| 1.  | Baesu Tiberiu Radu  |
+| 2.  | Petrasciuc Sebastian Marian  |
+| 3.  | Murarasu Matei George  |
 
 Proiectul se concentreaza pe realizarea unui joc video cu grafica 3D, in genul indie, cu o sursa de inspiratie din partea [Overcooked](https://store.steampowered.com/app/448510/Overcooked/). In randurile de mai jos urmeaza o scurta descriere a proiectului, precum si un scurt tutorial in ceea ce priveste instalarea.
 
